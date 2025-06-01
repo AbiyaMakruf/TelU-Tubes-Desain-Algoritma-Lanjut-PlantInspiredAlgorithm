@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1748768530 source:e:\abiya\telkom university\folder mata kuliah\s2\semester 2\desain algoritma lanjut\tugas besar\algoritma iwo\main.cpp
+	<iostream>
+	<fstream>
+	<random>
+	<algorithm>
+	<cmath>
+	<iomanip>
+
